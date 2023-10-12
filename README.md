@@ -68,7 +68,5 @@ https://medium.com/@srinidhi14vaddy/collaborative-filtering-movie-recommendation
 ![Image description](https://pbs.twimg.com/media/Fm3JtvcaYAEPIsp?format=jpg&name=medium)
 ![Image description](https://pbs.twimg.com/media/Fm3JtveaAAEB-hr?format=png&name=medium)
 
-### Authors
 
-@Utkarsh69ine
 
